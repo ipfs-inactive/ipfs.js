@@ -2,7 +2,7 @@
 
 
 
-# ~~_Soon_, you'll be able to:~~ **You now can do this!** See how in the [js-ipfs repo](https://github.com/ipfs/js-ipfs#use-in-a-browser-using-a-script-tag)
+# ~~_Soon_, you'll be able to:~~ **You now can do this!** See how in the [js-ipfs](https://github.com/ipfs/js-ipfs#use-in-a-browser-using-a-script-tag) repo!
 
 ```
 <script src="ipfs.js"></script>
